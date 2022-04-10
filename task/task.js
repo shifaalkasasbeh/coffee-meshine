@@ -6,7 +6,7 @@ function display() {
              document.getElementById("disp").innerHTML="Remaining amount=  "+ mony +"  JD"+" ";
 
              var img = document.createElement("img");
-                 img.src = "../task/img/coffeebeans2.jpg";
+                 img.src = "../task/img/coff.jpg";
                  var div = document.getElementById("x");
                      div.appendChild(img);
 
